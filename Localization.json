@@ -1,14 +1,18 @@
 {
   "ru": {
-    "Hello": "Привет"
+    "Hello": "Привет",
+    "Loading": "Загрузка"
   },
   "ua": {
-    "Hello": "Привiт"
+    "Hello": "Привiт",
+    "Loading": "Завантаження"
   },
   "en": {
-    "Hello": "Hello"
+    "Hello": "Hello",
+    "Loading": "Loading"
   },
   "chinese": {
-    "Hello": "测试"
+    "Hello": "测试",
+    "Loading": "加载中"
   }
 }
