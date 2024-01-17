@@ -5,7 +5,9 @@
     "startup": "Запуск",
     "select_product": "Выбор продукта",
     "preparing": "Подготовка",
-    "launch": "Запуск"
+    "launch": "Запуск",
+    "cancel": "Отмена",
+    "subscription_till": "Подписка до"
   },
   "ua": {
     "hello": "Привiт",
@@ -13,7 +15,9 @@
     "startup": "Запуск",
     "select_product": "Вибір продукту",
     "preparing": "Підготовка",
-    "launch": "Запуск"
+    "launch": "Запуск",
+    "cancel": "Скасування",
+    "subscription_till": "Підписка до"
   },
   "en": {
     "hello": "Hello",
@@ -21,7 +25,9 @@
     "startup": "Startup",
     "select_product": "Select product",
     "preparing": "Preparing",
-    "launch": "Launch"
+    "launch": "Launch",
+    "cancel": "Cancel",
+    "subscription_till": "Subscription till"
   },
   "chinese": {
     "hello": "测试",
@@ -29,6 +35,8 @@
     "startup": "启动",
     "select_product": "选择产品",
     "preparing": "启动中",
-    "launch": "启动"
+    "launch": "启动",
+    "cancel": "取消预订",
+    "subscription_till": "订阅最高可达"
   }
 }
