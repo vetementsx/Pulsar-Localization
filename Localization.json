@@ -4,27 +4,31 @@
     "loading": "Загрузка",
     "startup": "Запуск",
     "select_product": "Выбор продукта",
-    "preparing": "Подготовка"
+    "preparing": "Подготовка",
+    "launch": "Запуск"
   },
   "ua": {
     "hello": "Привiт",
     "loading": "Завантаження",
     "startup": "Запуск",
     "select_product": "Вибір продукту",
-    "preparing": "Підготовка"
+    "preparing": "Підготовка",
+    "launch": "Запуск"
   },
   "en": {
     "hello": "Hello",
     "loading": "Loading",
     "startup": "Startup",
     "select_product": "Select product",
-    "preparing": "Preparing"
+    "preparing": "Preparing",
+    "launch": "Launch"
   },
   "chinese": {
     "hello": "测试",
     "loading": "加载中",
     "startup": "启动",
     "select_product": "选择产品",
-    "preparing": "启动中"
+    "preparing": "启动中",
+    "launch": "启动"
   }
 }
